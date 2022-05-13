@@ -23,3 +23,9 @@ for n in range (2 , 10):
 tn.write("end\n")              
 tn.write("exit\n")
 print tn.read_all()
+
+
+
+
+
+#must configer in switch= sw(conf)# user enterusername privilege 15
