@@ -21,6 +21,7 @@ tn.write("vlan 2\n")
 tn.write("name voice\n")
 tn.write("vlan 3\n")
 tn.write("name message\n")
+tn.write("end\n")
 tn.write("exit\n")
 print tn.read_all()
 
